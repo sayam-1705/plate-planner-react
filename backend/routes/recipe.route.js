@@ -12,7 +12,8 @@ router.post(
   upload.single("image"),
   recipeController.createRecipe
 );
-router.post("/search", searchController.searchRecipes);router.put("/update-recipe/:id", auth, recipeController.updateRecipe);
+router.post("/search", searchController.searchRecipes);
+router.put("/update-recipe/:id", auth, recipeController.updateRecipe);
 router.delete("/delete-recipe/:id", auth, recipeController.deleteRecipe);
 router.post("/weather-suggestions", weatherController.getWeatherBasedRecipes);
 router.post("/get-recipe-by-userId", auth, searchController.getRecipeByUserId);

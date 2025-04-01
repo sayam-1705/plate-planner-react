@@ -23,8 +23,8 @@ The following flowchart illustrates the core functionalities and workflow of **P
 
 ## 📚 Documentation
 
-- For detailed instructions on the frontend, visit the [frontend documentation](frontend/README.md)
-- For detailed instructions on the backend, visit the [backend documentation](backend/README.md)
+- For detailed instructions on the frontend, visit the [Frontend Documentation](frontend/README.md).
+- For detailed instructions on the backend, visit the [Backend Documentation](backend/README.md).
 
 ---
 

@@ -21,6 +21,13 @@ The following flowchart illustrates the core functionalities and workflow of **P
 
 ---
 
+## 📚 Documentation
+
+- For detailed instructions on the frontend, visit the [frontend documentation](frontend/README.md)
+- For detailed instructions on the backend, visit the [backend documentation](backend/README.md)
+
+---
+
 ## 🚀 Running the Application Locally
 
 ### 1️⃣ Clone the Repository

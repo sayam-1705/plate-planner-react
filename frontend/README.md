@@ -107,6 +107,6 @@ frontend/
 
 ## 👨‍💻 Contributing
 
-We welcome contributions! Fork the repo, create a new branch, and submit a pull request.
+We welcome contributions! Feel free to fork the repo, create a new branch, and submit a pull request.
 
 Happy Coding! 🚀

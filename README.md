@@ -4,6 +4,8 @@
 
 Plate Planner is a smart meal planning application that provides **personalized recipe suggestions**, **structured meal plans**, and **nutritional insights** based on user preferences. The app helps users discover recipes based on available ingredients, seasonal filters, and even weather conditions, making meal planning effortless and enjoyable.
 
+---
+
 ## 🎯 Features
 
 - 🔐 **User Authentication**: Secure login and personalized experience.

@@ -4,6 +4,8 @@
 
 The frontend of **Plate Planner** is built using **React.js** and **Vite**, providing a fast and optimized user experience. It offers an intuitive interface for meal planning, personalized recipe suggestions, and nutritional insights.
 
+--
+
 ### 🚀 About Vite
 
 Vite is a modern frontend build tool designed for speed and efficiency. It features instant server startup, on-demand compilation, and hot module replacement, making development seamless and performant.

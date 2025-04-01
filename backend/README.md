@@ -23,7 +23,7 @@ Replace the placeholders with actual values before running the application.
 
 ---
 
-## 📌 API Documentation
+## 🌐 API Documentation
 
 ### 🔹 User Endpoints
 

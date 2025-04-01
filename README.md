@@ -17,7 +17,7 @@ Plate Planner is a smart meal planning application that provides **personalized 
 ## 🛠 Project Flowchart
 
 The following flowchart illustrates the core functionalities and workflow of **Plate Planner**:
-![Smart_Recipe_Finder](https://github.com/user-attachments/assets/303428d3-d19f-4e2c-8e1a-3ea3c37c58c2)
+![Smart_Recipe_Finder](https://github.com/user-attachments/assets/d4fb5aef-79cd-45a7-a998-f4d6bf3d66ab)
 
 ---
 

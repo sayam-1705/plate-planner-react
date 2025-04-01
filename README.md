@@ -14,6 +14,13 @@ Plate Planner is a smart meal planning application that provides **personalized 
 
 ---
 
+## 🛠 Project Flowchart
+
+The following flowchart illustrates the core functionalities and workflow of **Plate Planner**:
+![Smart_Recipe_Finder](https://github.com/user-attachments/assets/303428d3-d19f-4e2c-8e1a-3ea3c37c58c2)
+
+---
+
 ## 🚀 Running the Application Locally
 
 ### 1️⃣ Clone the Repository
@@ -47,7 +54,7 @@ npm install
    cd frontend
    npm run dev
    ```
-4. Open your browser and visit: **http://localhost:5173/**
+4. Open your browser and visit: [**http://localhost:5173/**](http://localhost:5173/)
 
 ---
 

@@ -75,15 +75,43 @@ Replace the placeholders with actual values before running the application.
 
 ---
 
-## 📄 Error Handling
+## 🛠️ Troubleshooting
 
-API responses return appropriate HTTP status codes:
+### ❌ MongoDB Connection Issues
 
-- `200 OK`: Successful requests.
-- `400 Bad Request`: Invalid input or missing parameters.
-- `401 Unauthorized`: Invalid or missing authentication token.
-- `404 Not Found`: Resource not found.
-- `500 Internal Server Error`: Unexpected server error.
+- Ensure that MongoDB is running and the correct connection string is provided in the `.env` file.
+
+### ❌ CORS Errors
+
+- Make sure the frontend is allowed in the CORS settings.
+- Modify the `cors` middleware in `index.js` to include:
+  ```js
+  app.use(cors({ origin: "*" }));
+  ```
+
+### ❌ JWT Authentication Issues
+
+- Ensure that the `SECRET_KEY` in the `.env` file matches the one used in token generation.
+- Verify that the `Authorization` header is included in protected API requests.
+
+### ❌ API Not Responding
+
+- Check if the server is running using:
+  ```sh
+  npm start
+  ```
+- If using `nodemon`, restart it with:
+  ```sh
+  npm run dev
+  ```
+
+---
+
+## 📚 References
+
+- [Node.js and Express.js Guide](http://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Express_Nodejs/Introduction)
+- [Mongoose Documentation](https://mongoosejs.com/docs/)
+- [JWT Authentication](https://jwt.io/introduction)
 
 ---
 
